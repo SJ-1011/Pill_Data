@@ -140,6 +140,7 @@ def rotate_image_circle(self, save_rotate_img, input_image):
 ```
 
 <br/>
+
 ## 프로그램 기능 설명 (detect_pill.py)
 - 본격적으로 알약을 탐지하고 분류하는 기능이다.
 - class의 이름
