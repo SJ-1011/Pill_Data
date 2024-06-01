@@ -219,6 +219,7 @@ def classify_image(image, model, class_names):
 <br/>
 
 ## 예측 결과
+- 이미지를 클릭하면 크게 볼 수 있습니다.
 |![1](https://github.com/SJ-1011/Pill_Data/assets/109647265/0256a7d8-b008-4695-9dcb-13be00f8d8aa)|![1_predict](https://github.com/SJ-1011/Pill_Data/assets/109647265/2c539308-d4c5-4066-a9c9-26c0de781558)|
 |:---:|:---:|
 |![3](https://github.com/SJ-1011/Pill_Data/assets/109647265/6678592d-4d27-4b1c-b30f-9e41b1b74aaf)|![3_predict](https://github.com/SJ-1011/Pill_Data/assets/109647265/077d710c-be0a-4419-8dd9-ff75b28d5247)|
