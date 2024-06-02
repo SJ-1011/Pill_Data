@@ -235,6 +235,13 @@ def classify_image(image, model, class_names):
 
   <br/>
 
+## 프로젝트 한계점
+- YOLOv8에는 class당 40개의 이미지를, ResNet에는 class당 400개의 이미지를 사용하였다.
+- class가 많다보니 많지 않은 Data를 사용하게 되었고, Data들이 비슷하다보니 overfitting이 발생하였다.
+- 더 큰 CNN 프로그램을 만들게 될 때는, 더 좋은 하드웨어 장비로 CNN을 돌린다면 좋은 결과가 나올 것으로 예상된다.
+
+<br/>
+
 ## Reference
 - 약학정보원(Dataset, Code): https://www.health.kr/notice/notice_view.asp?show_idx=1001&search_value=&search_term=&paging_value=&setLine=&setCategory=
 - Chat GPT
