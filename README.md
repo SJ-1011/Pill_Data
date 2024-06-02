@@ -214,7 +214,10 @@ def classify_image(image, model, class_names):
 ![val_batch0_labels](https://github.com/SJ-1011/Pill_Data/assets/109647265/06a7b7ad-80eb-4337-adcd-bfd461f2a81c)
 
 - ResNet
--   confusion matrix 그림 올리기
+  - 특정 class가 다른 class와 닮아서 분류를 잘 못하고 있는것이 보인다.
+
+![image](https://github.com/SJ-1011/Pill_Data/assets/109647265/d5164b0d-d5fd-4183-9323-d7f006d3a682)
+
 
 <br/>
 
